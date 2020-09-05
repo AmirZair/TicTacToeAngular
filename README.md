@@ -1,7 +1,7 @@
 # TicTacToe
 
-Angular 10.0.8
-[Nebular theme](https://akveo.github.io/nebular/) 
+- Angular 10.0.8
+- [Nebular theme](https://akveo.github.io/nebular/) 
 
 ## Running
 
